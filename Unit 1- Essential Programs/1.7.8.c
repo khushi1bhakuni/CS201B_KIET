@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void merge(float arr[], int l, int mid, int r){
 	int i=l,j=mid+1,k=0;
 	float temp[50];
